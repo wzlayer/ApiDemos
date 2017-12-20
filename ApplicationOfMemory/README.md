@@ -1,0 +1,5 @@
+# Application Of Memory
+
+1、测试Application初始化内存占用
+2、Application针对多进程初始化相应的资源测试
+3、多进程管理测试，比如Application中管理Activity，多进程分别启动的Activity需要如何管理
